@@ -1,3 +1,3 @@
 # playing-with-pyspark
 
-Algunas notebooks que originalemnte corren en Databricks para resolver algunos problemas usando PySpark.
+Algunas notebooks que originalmente corren en Databricks para resolver problemas usando PySpark.
